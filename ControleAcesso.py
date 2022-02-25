@@ -1,4 +1,3 @@
-#GRUPO 93: GABRIELA AYUMI ENDO GONDO
 
 import pyrebase
 import os
@@ -6,14 +5,14 @@ import stat
 import datetime
 
 firebaseConfig = {
-    "apiKey": "AIzaSyADNzFkGk5QmzJaEY2v0hW4vqz_qoDXavo",
-    "authDomain": "fir-pucpr-49ba4.firebaseapp.com",
-    "projectId": "fir-pucpr-49ba4",
-    "databaseURL": "https://" + "fir-pucpr-49ba4" + ".firebaseio.com",
-    "storageBucket": "fir-pucpr-49ba4.appspot.com",
-    "messagingSenderId": "1048578994261",
-    "appId": "1:1048578994261:web:e0643da05f853b9e0864dc",
-    "measurementId": "G-1Q14BC86V7"
+    "apiKey": "",
+    "authDomain": "",
+    "projectId": "",
+    "databaseURL": "",
+    "storageBucket": "",
+    "messagingSenderId": "",
+    "appId": "",
+    "measurementId": ""
 }
 
 user = input("Digite seu e-mail: ")
